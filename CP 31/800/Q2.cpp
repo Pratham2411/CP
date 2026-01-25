@@ -19,5 +19,6 @@ int main() {
         maxm = max(maxm, 2 * (x - arr[n - 1])); 
         cout << maxm << endl;
     }
-    return 0;
+    return 0; 
 }
+
