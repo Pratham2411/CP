@@ -1,3 +1,5 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 # CP 🚀
 
 Competitive Programming solutions, C++ templates, and practice problems.
@@ -10,20 +12,22 @@ Competitive Programming solutions, C++ templates, and practice problems.
 
 ## 🧠 Topics Covered
 - Arrays / Strings
-- Recursion / Backtracking
 - Sorting / Searching
-- Binary Search (classic + on answer)
 - Two Pointers / Sliding Window
 - Prefix Sum / Difference Array
+- Binary Search (classic + on answer)
 - Hashing / Maps
 - Stack / Queue
-- Linked List
 - Greedy
 - Bit Manipulation
 - DP
-- Trees
-- Graphs
+- Trees / Graphs
 - Segment Tree / Fenwick Tree
+
+## 🌐 Platforms
+- Codeforces
+- CSES
+- CP 31
 
 ## 🛠️ Tech
 - Language: **C++**
@@ -33,4 +37,4 @@ Competitive Programming solutions, C++ templates, and practice problems.
 Consistent practice + building strong DSA/CP fundamentals.
 
 ---
-If you find it useful, feel free to ⭐ the repo!
+If this repo helps you, drop a ⭐
