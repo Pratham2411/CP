@@ -20,5 +20,4 @@ int main() {
         else n = 3 * n + 1;
     }
     return 0;
-} 
-
+}
